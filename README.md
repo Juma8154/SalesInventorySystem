@@ -1,1 +1,1 @@
-# juma-project
+# Farm(Tea) Record and Management System
