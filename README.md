@@ -1,19 +1,19 @@
 # SalesInventorySystem
-FACULTY OF AND INFORMATION COMMUNICATION TECHNOLOGY
+#FACULTY OF AND INFORMATION COMMUNICATION TECHNOLOGY
 # TEST PLAN FOR: ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM
-BY
-NAME: JUMA W CLARENCE
-REG NUMBER: DIT-02-8154/2020
+#BY
+#NAME: JUMA W CLARENCE
+#REG NUMBER: DIT-02-8154/2020
 
-SUBMITTED TO:
- FELIX WERU
+#SUBMITTED TO:
+ #FELIX WERU
 
-
+# Table of Contents
 
 # 1.0INTRODUCTION
-1.1Goals and Objectives
+# 1.1Goals and Objectives
 This test plan describes the testing approach and overall framework that will drive the testing of the ZETECH UNIVERSITY CANTEEN POS SYSTEM. The objective of the test is to verify that the functionality of ZETECHU CANTEEN POS works according to the specifications. The test will execute and verify the test scripts, identify, fix and retest all high and medium severity defects per the entrance criteria, prioritize lower severity defects for future fixing.
-1.2Statement Of Scope
+# 1.2Statement Of Scope
 
 The scope of this project is to test the functionality of the ZETECH_U Canteen POS system. 
 The following items will be tested.
@@ -27,7 +27,7 @@ The following items will be tested.
 
 
 
-1.3Major constraints
+# 1.3Major constraints
 
 Skill set to plan and conduct performance testing is not adequately available.It is a late activity, and duration available for testing is not adequate.
 Production environment cannot be simulated as it requires investments. A subdued environment may not produce the relevant results.
@@ -37,41 +37,41 @@ The following items will be tested.
 
 
 # 2.0Test Plan
-2.1Software (SCIis) to be tested
+# 2.1Software (SCIis) to be tested
 ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM IS THE SOFTWARE TO BE TESTED IN THIS CASE.
-2.2Testing strategy
-2.2.1Unit testing.
+# 2.2Testing strategy
+# 2.2.1Unit testing.
 Report testing
 Security and regulatory compliance
 Tracking customer data
 Performance
 Sales
 Cashier activity
-2.2.2Integration testing
+# 2.2.2Integration testing
 Testing on windows 7 environment
 Testing on windows 8 environment
 Testing on windows 10 environment.
-2.2.3Validation testing
+# 2.2.3Validation testing
 User manual
 User friendliness
 Report/inventory testing.
 Backup testing
-2.2.4High-order testing
+# 2.2.4High-order testing
 This is performed to
  evaluate the compliance of the system with the corresponding requirements.
-2.3Testing resources and staffing
-2.4Test work products
+# 2.3Testing resources and staffing
+# 2.4Test work products
 
 
-2.5Test record keeping
+# 2.5Test record keeping
 The test recorder in POS helps significantly reduce the time and cost of UAT. UAT is typically required before a Microsoft application update is applied, or before custom code and configurations are applied to your POS production environments. The test recorder can record user actions in the client, and it provides exact fidelity for all controls and for all elements in the Document Object Model (DOM)
-2.6Test metrics
-2.7Testing tools and environment
-2.8Test schedule
+# 2.6Test metrics
+# 2.7Testing tools and environment
+# 2.8Test schedule
 # 3.0Test Procedure
-3.1Software (SCIis) to be tested
-3.2Testing procedure
-3.2.1Unit test cases
+# 3.1Software (SCIis) to be tested
+# 3.2Testing procedure
+# 3.2.1Unit test cases
 Test scenario 1: Cashier activity
 Test the entry of items purchased by a customer is correct
 Test discounts are applied correctly
@@ -130,25 +130,25 @@ Test scenario 8: Report testing
 
 
 
-3.2.1.2 Stubs and / or drivers for component i
-3.2.1.3 Test cases component i
-3.2.1.4 Purpose of tests for component 1
-3.2.1.5 Expected results for component i
+# 3.2.1.2 Stubs and / or drivers for component i
+# 3.2.1.3 Test cases component i
+# 3.2.1.4 Purpose of tests for component 1
+# 3.2.1.5 Expected results for component i
 
-3.2.2Integration testing
-3.2.2.1 Testing procedure for integration 
-3.2.2.2 Stubs and drivers required 
-3.2.2.3 Test cases and their purpose 
-3.2.2.4 Expected results 
-3.2.3 Validation testing
+# 3.2.2Integration testing
+# 3.2.2.1 Testing procedure for integration 
+# 3.2.2.2 Stubs and drivers required 
+# 3.2.2.3 Test cases and their purpose 
+# 3.2.2.4 Expected results 
+# 3.2.3 Validation testing
 
-3.2.3.1 Testing procedure for validation 
-3.2.3.3 Expected results 
-3.2.3.4 Pass/fail criterion for all validation tests
-3.2.4 High order testing (a.k.a System testing)
-3.2.4.1 Recovery testing 
+# 3.2.3.1 Testing procedure for validation 
+# 3.2.3.3 Expected results 
+# 3.2.3.4 Pass/fail criterion for all validation tests
+# 3.2.4 High order testing (a.k.a System testing)
+# 3.2.4.1 Recovery testing 
 Make sure back up plans are working effectively to avoid data loss.
-3.2.4.2 Security testing 
+# 3.2.4.2 Security testing 
 Verifying POS system as per regulatory compliance
 Test alert system that notifies security defenders
 Make sure you can void a payment before posting
@@ -156,15 +156,15 @@ Test scenario 8: Report testing
 Test database consistency
 Verify specific information about each tender cash, coupon identifier, check number and so on
 
-3.2.4.3 Stress testing
+# 3.2.4.3 Stress testing
 Verify the flexibility and stability of the program allows it to handle overloads by running the program many times by clicking on its application shortcut.
- 3.2.4.4 Performance testing 
+ # 3.2.4.4 Performance testing 
 Check for speed or time taken to receive a response or send a request
 Check the transaction based rules are applicable (discounts/tax/ rebates etc.)
 Verify that the correct code is generated for approved, hold or declined transactions
 
-3.2.4.5 Alpha/beta testing 
-3.2.4.6 Pass/fail criterion for all validation tests
-3.3 Testing resources and staffing
-3.4 Test work products 
-3.5 Test record keeping and test log 
+# 3.2.4.5 Alpha/beta testing 
+# 3.2.4.6 Pass/fail criterion for all validation tests
+# 3.3 Testing resources and staffing
+# 3.4 Test work products 
+# 3.5 Test record keeping and test log 
