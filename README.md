@@ -1,7 +1,6 @@
 # SalesInventorySystem
 FACULTY OF AND INFORMATION COMMUNICATION TECHNOLOGY
-TEST PLAN FOR: 
-ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM
+# TEST PLAN FOR: ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM
 BY
 NAME: JUMA W CLARENCE
 REG NUMBER: DIT-02-8154/2020
@@ -11,7 +10,7 @@ SUBMITTED TO:
 
 
 
-1.0INTRODUCTION
+# 1.0INTRODUCTION
 1.1Goals and Objectives
 This test plan describes the testing approach and overall framework that will drive the testing of the ZETECH UNIVERSITY CANTEEN POS SYSTEM. The objective of the test is to verify that the functionality of ZETECHU CANTEEN POS works according to the specifications. The test will execute and verify the test scripts, identify, fix and retest all high and medium severity defects per the entrance criteria, prioritize lower severity defects for future fixing.
 1.2Statement Of Scope
@@ -37,7 +36,7 @@ The following items will be tested.
 Performance testing requires simulating several concurrent users. This requires automated tools which are expensive.
 
 
-2.0Test Plan
+# 2.0Test Plan
 2.1Software (SCIis) to be tested
 ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM IS THE SOFTWARE TO BE TESTED IN THIS CASE.
 2.2Testing strategy
@@ -69,7 +68,7 @@ The test recorder in POS helps significantly reduce the time and cost of UAT. UA
 2.6Test metrics
 2.7Testing tools and environment
 2.8Test schedule
-3.0Test Procedure
+# 3.0Test Procedure
 3.1Software (SCIis) to be tested
 3.2Testing procedure
 3.2.1Unit test cases
