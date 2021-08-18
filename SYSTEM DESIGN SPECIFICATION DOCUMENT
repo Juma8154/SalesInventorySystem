@@ -1,0 +1,88 @@
+# SYSTEM DESIGN SPECIFICATION DOCUMENT FOR ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM
+# BY JUMA W CLARENCE
+# REG NUMBER: DIT-02-8154/2020
+# SUBMITTED TO:
+# FELIX WERU
+
+
+
+# 1.PURPOSE AND SCOPE
+This SDS documents tracks the necessary information required to effectively define architecture and system design in order to give the development team guidance on the architecture of the system to be developed. Design documents are incrementally and repetitively produced during the system development life cycle, based on the particular circumstances of the information technology (IT) project and the system development methodology used for developing the system. Its intended audience is the project manager, project team, and development team. Some portions of this document, such as the user interface (UI), may be shared with the client/user, and other stakeholders whose input/approval into the UI is needed.
+# 2. SYSTEM OVERVIEW
+(a). Level 0 data flow diagram
+
+
+
+
+(b) Level one Data Flow Diagram
+Level one entity DFD diagram above of ZETECHU CANTEEN POS SYSTEM shows how the system is divided into sub-systems (processes), each of which deals with one or more of the data flows to or from an external agent, and which together provide all of the functionality of the ZETECH POS System as a whole. It also identifies internal data stores of login, customer, supplier, payment, sales that must be present in order for the ZETECHU POS to do its job, and shows the flow of data between the various parts inventory, sales, customer, login, supplier of the system.
+
+
+
+
+
+
+# 3. SYSTEM ACHITECTURE.
+
+
+
+
+
+
+
+
+
+	
+
+
+# 4.SOFTWARE DESIGN
+System flowchart
+
+System Pseudo code
+START
+ENTER USERNAME AND PASSWORD
+         CHECK FOR VALID LOGIN CREDENTIALS
+                     IF LOGIN CREDENTIALS= FALSE, DENY ACCESS
+                         ELSE, GRANT ACCESS
+CHECK ROLES OF ACCESS
+MANAGE MODULES
+PAYMENT MANAGEMENT
+SUPPLIER MANAGEMENT
+CUSTOMER MANAGEMENT
+INVENTORY MANAGEMENT
+ORDER MANAGEMENT
+PURCHASES MANAGEMENT
+SALES MANAGEMENT
+STOP.
+# 5. FILE AND DATABASE DESIGN
+
+
+
+
+
+# 6. HUMAN-MACHINE INTERFACE
+(a) System Input User Design
+
+The system has a login screen where every user has to enter correct credentials in order to be able to access the system.
+
+
+
+
+
+
+
+
+(b) System Output Design
+
+
+
+
+# 7. SYSTEM INTERGRITY CONTROLS
+The information stored in the system will be secure as long as:
+One provides password to access the system
+The admin is the only person who authorizes access to data
+Each and every employee familiarizes and clearly understands to what extent they can manipulate the system and data stored in it.
+The admin is the only person to add other users each with specific roles to the system.
+Logs track down operations in the system and user can be held accountable for their actions.
+# 8. PROJECT REFERENCES
+# 9. GLOSSARY
