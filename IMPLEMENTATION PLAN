@@ -1,0 +1,96 @@
+# ZETECH UNNIVERSITY
+# DIPLOMA IN INFORMATION TECHNOLOGY
+# IMPLEMENTATION GUIDELINES FOR ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM
+# BY: JUMA W CLARENCE
+# REG NO: DIT-02-8154/2020
+# SUBMITTED TO:
+# FELIX WERU (PROJECT SUPERVISOR)
+
+
+# 1.IMPLEMENTATION STRATEGY
+ZETECH UNIVERSITY CANTEEN POINT OF SALE SYSTEM aims at replacing the manual system used in the ZETECH-U Canteen in order to improve the operations carried out day in day out.
+
+# 2.IMPLEMENTATION PHASE DELIVERABLES
+# 2.1Installation/conversion plans
+# 2.1.1Conversion plan
+The following parties/entities are involved in the process of changing from manual system to installation of ZETECHU CANTEEN POS SYSTEM.
+USER.
+PROJECT TEAM
+PROJECT DEVELOPER
+DATA CAPTURE-FORM FILLING AND CHECKING
+# 2.1.2File Conversion
+Data entry is the main process under this stage. All the data captured in the manual system is transferred to ZETECH CANTEEN POS SYSTEM for changeover practice. After the process is complete, staff training follows. This practice will help the users and other staff at ZETECH University to be able to use the system effectively as well as being able to handle system errors. This will in turn make it easy to troubleshoot errors that may occur or users may come across while using the system.
+# 2.1.3Creating test files
+ZETECH UNIVERSITY CANTEEN POS SYSTEM should be checked on test data files.
+# 2.1.4Train Personnel
+A user manual for ZETECHU POS SYSTEM is handed over to the trained personnel/user. 
+# 2.1.5Conversion of physical facilities
+# 2.1.5.1Communication network
+All network peripherals must be assembled ready for the installation process. They include, receipt printer, system unit, keyboard, mouse, RJ45 network cable (10 metres), system monitor and UPS.
+
+
+# 2.1.5.2Hardware
+All physical peripherals are connected to bring communication to the system.
+# 2.1.6 Conversion of Administrative Procedures
+
+# 3.CONVERSION METHODS (APPROACHES)
+It will be optional for the customer (ZETECH UNIVERSITY) to choose the conversion method from the following.
+Direct installation: Totally change-over. The old (manual) system is turned off when the new one is turned on such that only new system will be operating
+Parallel Installation: New and old system will be running together for a specified period until the staff considers it effective.
+Single Location (Pilot) Installation: ZETECHU CANTEEN POS SYSTEM is installed in one site at time and using the experienced experts to decide how and when the new system should be installed at the other locations/sites of the organization.
+Phased Installation: One module is installed and tested at a time.
+
+
+
+# 4.TRAINING PLAN
+# 4.1TRAINING TOOLS.
+Training manual will be drafted. Furthermore, online FAQs will be delivered over time.
+
+# 4.2Training Methodologies
+Instructor Led
+One-on-One
+User-Led
+External sources
+# 5.RESISTANCE TO CHANGE PLAN
+	People will resist changes, how will they react: 
+Hostility: Non-co-operation, fear
+Withdrawal from the cause of stress-supervisor going sick
+Refusing to accept the computer
+Adverse effect on employee’s status, job satisfaction.
+May even sabotage the system 
+Unable to understand the new system-communication gap.
+
+
+
+There are several ways to reduce resistance to system change.
+Convince the organization that changeover will improve the quality of work and also it will help them all.
+Establish open communication between user and project team.
+
+
+# 6.SOFTWARE MAINTENANCE PLAN
+
+It specifies the following:
+Information center/help desk
+Automating support
+Resident expert
+
+# 7.SOFTWARE MAINTENANCE PLAN
+Corrective maintenance
+Adaptive maintenance 
+Perfective maintenance
+Enhancement
+They cover a wide range of activities including:
+Correcting coding and design errors
+Updating documentation/test data
+Upgrading user support
+Enhancement- adding, modifying or redeveloping the code to support changes.
+It is necessary to keep up with changing user needs and operational environment.
+Labor-intensive nature
+Proper maintenance plan: makes the software more reliable, improved response time in correcting errors, improved user satisfaction, higher morale among maintenance staff.
+# 8.SUPPORTING THE END-USER
+Automating support.
+Providing recovery and backup
+Pc maintenance
+Disaster recovery
+Resident expert
+Information center/ help desk
